@@ -1,5 +1,7 @@
 # irrigationDIY
 
+Blog Post with background and extra details: [diyirrigation](https://asafmaoz.com/projects/diyirrigation.html).
+
 A Do It Yourself irrigation system Arduino project.
 
 Use Arduino Uno and a simple watter pump to set up
